@@ -1,0 +1,16 @@
+{
+    "formulas": [
+        "gdbm",
+        "git",
+        "go",
+        "libyaml",
+        "mercurial",
+        "openssl",
+        "pkg-config",
+        "python",
+        "readline",
+        "ruby",
+        "sqlite",
+        "vim"
+    ]
+}
