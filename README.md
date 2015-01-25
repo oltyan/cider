@@ -1,0 +1,2 @@
+# cider
+Cider Mac config
