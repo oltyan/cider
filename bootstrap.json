@@ -6,11 +6,14 @@
         "libyaml",
         "mercurial",
         "openssl",
+        "pcre",
         "pkg-config",
         "python",
         "readline",
         "ruby",
         "sqlite",
-        "vim"
+        "utopia",
+        "vim",
+        "zsh"
     ]
 }

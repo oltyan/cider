@@ -1,0 +1,3 @@
+#!/bin/zsh
+cp ~/.cider/bootstrap.json ~/projects/cider/bootstrap.json
+echo "File Copied"
